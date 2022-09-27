@@ -1,0 +1,26 @@
+h3{
+
+    color: darkgreen;
+
+}
+
+p{
+
+    color: springgreen;
+
+}
+
+h2{
+
+    color: blueviolet;
+
+}
+
+.actividades{
+    box-sizing: border-box;
+    width: 100%;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
